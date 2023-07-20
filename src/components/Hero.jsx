@@ -34,8 +34,8 @@ return (
      <section className="min-h-screen flex flex-col justify-start items-center p-5 text-center">
         <h2 className="text-5xl text-teal-600 uppercase font-bold">Kirby Jade Labalan</h2>
         <h3 className="p-3 text-2xl">Software Engineer</h3>
-        <p className="max-w-xl font-light text-gray-700">
-            Hello <span className="animate-pulse text-4xl">👋</span>, welcome to my portfolio. 
+        <p className="max-w-xl font-light text-gray-700 dark:text-gray-300">
+            Hello!<span className="animate-pulse text-4xl justify-center flex ">👋</span>Welcome to my portfolio. 
             I am a software engineer. I possess strong communication, analytical,and problem-solving skills. As a quick a learner, 
             I have passion for technology and a strong desire to expand my knowledge and expertise in this field. My capacity for 
             teamwork and dedication to producing high-quality work makes me an excellent candidate for any position that aligns with 
