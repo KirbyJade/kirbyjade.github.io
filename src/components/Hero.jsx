@@ -36,7 +36,10 @@ return (
         <h3 className="p-3 text-2xl">Software Engineer</h3>
         <p className="max-w-xl font-light text-gray-700">
             Hello <span className="animate-pulse text-4xl">👋</span>, welcome to my portfolio. 
-            I am a software engineer.
+            I am a software engineer. I possess strong communication, analytical,and problem-solving skills. As a quick a learner, 
+            I have passion for technology and a strong desire to expand my knowledge and expertise in this field. My capacity for 
+            teamwork and dedication to producing high-quality work makes me an excellent candidate for any position that aligns with 
+            my skills and abilities.
         </p>
         {/* Social Icons */}
         <div className="flex justify-evenly py-8 lg:py-16 text-3xl w-full md:w-1/3">
