@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.7581759e.css",
+    "main.js": "/react-gh-pages/static/js/main.cc3e1767.js",
+    "static/media/Pic.png": "/react-gh-pages/static/media/Pic.bce9096d050027f2c81c.png",
+    "static/media/weatherapp.png": "/react-gh-pages/static/media/weatherapp.ae368f7328bf685840ac.png",
+    "static/media/reactjs.png": "/react-gh-pages/static/media/reactjs.6bcffb56bd0efaa47767.png",
+    "static/media/php.png": "/react-gh-pages/static/media/php.8c31a261a761bcac5c71.png",
+    "static/media/git.png": "/react-gh-pages/static/media/git.8322c082f223fd807d36.png",
+    "static/media/web.png": "/react-gh-pages/static/media/web.63b90022756467583233.png",
+    "static/media/enzalada.png": "/react-gh-pages/static/media/enzalada.5444a6c6295c01d1a8e9.png",
+    "static/media/research.png": "/react-gh-pages/static/media/research.9fa6e8c02222253ba29d.png",
+    "static/media/mobileapp.png": "/react-gh-pages/static/media/mobileapp.5609438ea5e79bbadedd.png",
+    "static/media/mobile.png": "/react-gh-pages/static/media/mobile.d0c24ef4fa5fe6f5155e.png",
+    "static/media/tailwind.png": "/react-gh-pages/static/media/tailwind.18b32c43e6fa4c8ee7db.png",
+    "static/media/female.png": "/react-gh-pages/static/media/female.22442dd4dcfabf71866b.png",
+    "static/media/html-5.png": "/react-gh-pages/static/media/html-5.a92a549a591f4acb527a.png",
+    "static/media/queing.png": "/react-gh-pages/static/media/queing.3f92d448266ed58c6148.png",
+    "static/media/ecommerce.png": "/react-gh-pages/static/media/ecommerce.7283ab7137d77cdba854.png",
+    "static/media/wordpress.png": "/react-gh-pages/static/media/wordpress.9fa09f4e51c34ddc63d1.png",
+    "static/media/cp.png": "/react-gh-pages/static/media/cp.7688e8009d2879939ac3.png",
+    "static/media/mysql.png": "/react-gh-pages/static/media/mysql.56e05558e8cb6b078cc4.png",
+    "static/media/css-3.png": "/react-gh-pages/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/typescript.png": "/react-gh-pages/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/male.jpg": "/react-gh-pages/static/media/male.5d9ea6317191df85e1b9.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.7581759e.css.map": "/react-gh-pages/static/css/main.7581759e.css.map",
+    "main.cc3e1767.js.map": "/react-gh-pages/static/js/main.cc3e1767.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7581759e.css",
+    "static/js/main.cc3e1767.js"
+  ]
+}
