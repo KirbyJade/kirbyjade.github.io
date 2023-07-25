@@ -86,7 +86,7 @@ const Skills =  () => {
             title: "My SQL",
         },
         ];
-    // eslint-disable-next-line
+
 {/**Hide arrow key function */}
 window.addEventListener("scroll", function() {
     const downArrow = document.querySelector(".down-arrow");

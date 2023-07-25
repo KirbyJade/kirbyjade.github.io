@@ -18,10 +18,10 @@ function App(){
             <main className="bg-white dark:bg-gray-900 text-gray-900 dark:text-white">
 
             <Hero></Hero>
+            <Testimonials></Testimonials>
             <Skills></Skills>
             <Services></Services>
             <Portfolio></Portfolio>
-            <Testimonials></Testimonials>
             <Contact></Contact>
             
             </main>
